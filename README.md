@@ -21,4 +21,3 @@ This project focuses on analyzing a Bookstore's sales, customer base and invento
   
 - Window Functions (ROW_NUMBER, RANK, LAG, etc.)
   
-- Data Cleaning with SQL
